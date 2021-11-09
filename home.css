@@ -1,0 +1,46 @@
+.jumbotron{
+    background-image: url(https://wallpaperfordesktop.com/wp-content/uploads/2021/06/Dream-Smp-Wallpaper-HD.jpg);
+    height: 100px;
+    text-align: center;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: maroon;
+  }
+
+li {
+    display: inline;
+  }
+
+  li {
+    float: left;
+  }
+  
+  a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+  }
+
+  ul {
+    background-color: #dddddd;
+  }
+
+  .ec-cart-widget{
+    background-color: cornflowerblue;
+}
+
+#shop{
+    background-color: cornflowerblue;
+}
+body{
+    background-color: crimson;
+}
